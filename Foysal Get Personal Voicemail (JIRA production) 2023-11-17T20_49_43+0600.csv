@@ -1,0 +1,520 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project description,Project url,Priority,Resolution,Assignee,Reporter,Creator,Created,Updated,Last Viewed,Resolved,Affects Version/s,Component/s,Due Date,Votes,Description,Environment,Original Estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Attachment,Attachment,Attachment,Attachment,Attachment,Custom field ((backup) External issue ID - old),Custom field ((backup) Integrator),Custom field ((backup) Issue Occurred On),Custom field ((backup) Issue Status Comment),Custom field ((backup) Platform),Custom field ((backup) Root of the problem),Custom field ((backup) Test Type),Custom field ((backup) Test case priority),Custom field ((backup) Type of Issue),Custom field ((backup) Work Type),"Custom field ((tmp, del) Build/s)","Custom field ((tmp, del?) TestCase Link)",Custom field (Account),Custom field (Actual Result),Custom field (Affected Test Cases),Custom field (Affects Build/s),Custom field (Asana link),Custom field (BT Jira ID),Custom field (BT Project),Custom field (Basecamp Link),Custom field (Billable Category),Custom field (Browser),Custom field (Browser / Environment),Custom field (Browser Version),Custom field (Business Unit),Custom field (CQ ID),Custom field (CS Project Coordinator),Custom field (Case Study necessity postpone date),Custom field (Client Device),Custom field (Client Device Version),Custom field (Cloud Version),Custom field (Core issue),Custom field (Created By),Custom field (End Date),Custom field (Epic Link),Custom field (Error Type),Custom field (Expected Result),Custom field (Found by),Custom field (Handled By (SGW Tester)),Custom field (Hardware Version),Custom field (Impact),Custom field (Impacted Areas),Custom field (Importance),Custom field (Iteration),Custom field (Level),Custom field (New Original Estimate),Custom field (Next Step),Custom field (Number of candidates),Custom field (Occurrence),Custom field (Original story points),Custom field (Parent Link),Custom field (Partner Contact),Custom field (Payment Status),Custom field (Planned Efforts (FTE)),Custom field (Priority Level),Custom field (Proxy Required),Custom field (RFX Coordinator),Custom field (Rank),Custom field (Rank (Obsolete)),Custom field (Regional Coordinator),Custom field (Related Cases),Custom field (Reported Version),Custom field (Router),Custom field (SF Case No),Custom field (SGW Jira ID),Custom field (Severity/Importance),Custom field (Solution),Custom field (Start Date),Custom field (Supervisor),Custom field (TVS ID),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Team),Custom field (Team Role),Custom field (TestLink case),Custom field (Time Category),Custom field (Type of engagement),Custom field (URL),Custom field (Wiki Link),Custom field (Wires Link),Custom field (ZendeskID),Custom field (Обеспечение оборудованием),Comment
+Greetings: Time is out: Group is not displayed in the greetings when I select a group and save it,QATC-811961,3483281,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,26/Jul/23 8:25 PM,27/Jul/23 2:29 AM,17/Nov/23 8:49 PM,27/Jul/23 2:29 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open the Get personal apps
+ # Tap on Greetings
+ # Tab on Time is out
+ # Select a group
+ # Tap on save
+ # Back to the Greetings window
+ # Observed the result
+
+*Actual Result:* Group is not displayed in the greetings when I select a group and save it
+
+*Expected Result:* Selected group should be displayed in the greetings window when the user selects a group and save it.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"26/Jul/23 8:24 PM;m.foysal;Selected group is not displayed in the greetings.mp4;https://jira.a1qa.com/secure/attachment/2389044/Selected+group+is+not+displayed+in+the+greetings.mp4","26/Jul/23 8:24 PM;m.foysal;Selected group is not displayed in the greetings.txt;https://jira.a1qa.com/secure/attachment/2389043/Selected+group+is+not+displayed+in+the+greetings.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgz2f:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
+Get Personal: Apps name is displayed Get Personal instead of Voicemail,QATC-811959,3483274,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Duplicate,,m.foysal,m.foysal,26/Jul/23 8:15 PM,27/Jul/23 2:30 AM,17/Nov/23 8:49 PM,27/Jul/23 2:30 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Install the application
+ # Observed the application name
+
+*Actual Result:* Apps name is displayed Get Personal instead of Voicemail
+
+*Expected Result:* Apps name should be displayed Voicemail","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"26/Jul/23 8:15 PM;m.foysal;app name.jpg;https://jira.a1qa.com/secure/attachment/2389033/app+name.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgz0v:",9223372036854775807,,,,,,,4-Minor,,,,,,,,,,,,,,,,,,
+Quick Status: Quick status is hearing the user device instead of the recipient when the recipient call to the user,QATC-811935,3483182,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,26/Jul/23 6:40 PM,27/Jul/23 2:28 AM,17/Nov/23 8:49 PM,27/Jul/23 2:28 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on Quick status
+ # Check the radio button on Bob
+ # Wait for a call
+ # Observed the result
+
+*Actual Result:* Quick status is hearing the user device instead of the recipient when the recipient call to the user
+
+*Expected Result:* The recipients will hear the status recording when they call the user.
+
+ ","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"26/Jul/23 6:40 PM;m.foysal;Quick status is not hearing recipient device.mp4;https://jira.a1qa.com/secure/attachment/2388950/Quick+status+is+not+hearing+recipient+device.mp4","26/Jul/23 6:40 PM;m.foysal;Quick status is not hearing recipient device.txt;https://jira.a1qa.com/secure/attachment/2388949/Quick+status+is+not+hearing+recipient+device.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgygn:",9223372036854775807,,,,,,,1-Critical,,,,,,,,,,,,,,,,,,
+Greetings: Greeting is hearing the user device instead of the recipient when the recipient call to the user,QATC-811933,3483168,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,26/Jul/23 6:26 PM,27/Jul/23 2:26 AM,17/Nov/23 8:49 PM,27/Jul/23 2:26 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Make sure that active service is turned on(Check on Setting)
+ # Tap on Greetings
+ # Toggle on Shazzad greetings
+ # Wait for recipient's call
+ # Observed the result
+
+*Actual Result:* Greeting is hearing the user device instead of the recipient when the recipient call to the user
+
+*Expected Result:* Greetings should be heard in the recipient's device when he calls the user.
+
+*Additional Information:* When choosing a specific time From 5:23 PM to 5:30 PM the greetings are not working.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"26/Jul/23 6:22 PM;m.foysal;Greeting is hearing users phone.mp4;https://jira.a1qa.com/secure/attachment/2388943/Greeting+is+hearing+users+phone.mp4","26/Jul/23 6:25 PM;m.foysal;Greeting is hearing users phone.txt;https://jira.a1qa.com/secure/attachment/2388942/Greeting+is+hearing+users+phone.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgydj:",9223372036854775807,,,,,,,1-Critical,,,,,,,,,,,,,,,,,,
+Greetings: Spaces are not truncated when saving the greeting,QATC-811910,3483072,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,26/Jul/23 4:34 PM,27/Jul/23 2:25 AM,17/Nov/23 8:49 PM,27/Jul/23 2:25 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on Hello
+ # Tap on title and add some blank new line
+ # Tap on save button
+ # Observed the result
+
+*Actual Result:* Spaces are not truncated when saving the greeting
+
+*Expected Result:* Spaces should be truncated when saving the greeting
+
+*Additional Information:* This issue is the same for Quick status","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"26/Jul/23 4:34 PM;m.foysal;Spaches are not truncated.mp4;https://jira.a1qa.com/secure/attachment/2388886/Spaches+are+not+truncated.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgxt3:",9223372036854775807,,,,,,,4-Minor,,,,,,,,,,,,,,,,,,
+Greetings: New 1: Apps Language is changed when the device changes the region and language,QATC-811866,3482915,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,26/Jul/23 1:42 PM,27/Jul/23 2:25 AM,17/Nov/23 8:49 PM,27/Jul/23 2:25 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on Greetings
+ # Observed the toggle language
+ # Observed the day language
+ # Tap on Meeting Greeting
+ # Observed the Recording time
+ # Observed the Time picker window
+
+*Actual Result:* Apps Language is changed when the device changes the region and language
+
+*Expected Result:* Apps language should be unchanged when the device changes the region and language","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"26/Jul/23 1:41 PM;m.foysal;changing the region and language.mp4;https://jira.a1qa.com/secure/attachment/2388733/changing+the+region+and+language.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgwv3:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greetings: Create new Greetings: Apps change the time format when changing the time format from android system,QATC-811862,3482904,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,26/Jul/23 1:26 PM,26/Jul/23 1:26 PM,17/Nov/23 8:49 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on Greetings
+ # Tap on New 1
+ # Tap time from and to
+ # Observed the result
+ # Change the time format from 12h to 24h from device setting
+ # Repeat 1 to 4 steps 
+ # Observed the result
+
+{*}Actual Result{*}: Apps change the time format when changing the time format from android system
+
+*Expected Result:* The time format should be the same when changed the device time format","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"26/Jul/23 1:24 PM;m.foysal;Time zone change.mp4;https://jira.a1qa.com/secure/attachment/2388725/Time+zone+change.mp4","26/Jul/23 1:24 PM;m.foysal;Time zone change.txt;https://jira.a1qa.com/secure/attachment/2388724/Time+zone+change.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgwsv:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greetings: Some greeting is toggle on and off automatically when scroll ups ad down,QATC-811860,3482897,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Duplicate,,m.foysal,m.foysal,26/Jul/23 1:14 PM,27/Jul/23 2:24 AM,17/Nov/23 8:49 PM,27/Jul/23 2:24 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on Greetings
+ # Turn Off all Greetings
+ # Scroll-ups and down
+ # Observed the result
+
+{*}Actual Result{*}: Some greeting is toggle on and off automatically when scroll ups ad down
+
+*Expected Result:* Greetings shouldn't be toggled on and off automatically when scroll ups and down","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"26/Jul/23 1:14 PM;m.foysal;Gteetings automatcally turned on and off.mp4;https://jira.a1qa.com/secure/attachment/2388717/Gteetings+automatcally+turned+on+and+off.mp4","26/Jul/23 1:14 PM;m.foysal;Gteetings automatcally turned on and off.txt;https://jira.a1qa.com/secure/attachment/2388716/Gteetings+automatcally+turned+on+and+off.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgwrb:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greeting: New1: Select Recepient: The window is displayed Get Personal Title instead of Select Recepient,QATC-811816,3482790,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 10:55 PM,27/Jul/23 2:23 AM,17/Nov/23 8:49 PM,27/Jul/23 2:23 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get personal Apps
+ # Tap on Greeting
+ # Tap on New 1 greeting
+ # Tap on Select a recipient
+ # Observed the window
+
+*Actual Result:* The window is displayed Get Personal Title instead of Select Recepient
+
+*Expected Result:* The window should be displayed Select Recipient","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 10:54 PM;m.foysal;Select recipient is displayed.mp4;https://jira.a1qa.com/secure/attachment/2388619/Select+recipient+is+displayed.mp4","25/Jul/23 10:52 PM;m.foysal;Select recipient should be displayed.jpg;https://jira.a1qa.com/secure/attachment/2388620/Select+recipient+should+be+displayed.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgw3r:",9223372036854775807,,,,,,,5-Enhancement,,,,,,,,,,,,,,,,,,
+Greeting: Create new Greeting: The save button icon is displayed on the left side instead of with save text,QATC-811813,3482785,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 10:47 PM,27/Jul/23 2:23 AM,17/Nov/23 8:48 PM,27/Jul/23 2:23 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on Greeting
+ # Tap on Create New Greeting
+ # Tap on the record icon
+ # Tap on the Check mark button
+ # Observed the button 
+
+*Actual Result:* The save button icon is displayed on the left side instead of with save text
+
+*Expected Result:* The save button icon should be displayed properly. According to the design.
+
+*Additional Information:* Open any previously saved Greeting or Quick status The save button ,delete button, discard button has the same issue","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 10:47 PM;m.foysal;Apps button displayed.mp4;https://jira.a1qa.com/secure/attachment/2388610/Apps+button+displayed.mp4","25/Jul/23 10:43 PM;m.foysal;save and delete greeting button.jpg;https://jira.a1qa.com/secure/attachment/2388613/save+and+delete+greeting+button.jpg","25/Jul/23 10:44 PM;m.foysal;save and delete status.jpg;https://jira.a1qa.com/secure/attachment/2388611/save+and+delete+status.jpg","25/Jul/23 10:43 PM;m.foysal;save and discard button.jpg;https://jira.a1qa.com/secure/attachment/2388612/save+and+discard+button.jpg",,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgw2n:",9223372036854775807,,,,,,,5-Enhancement,,,,,,,,,,,,,,,,,,
+Greetings: Create new greeting is displayed “Get personal” title bar instead of “New Greetings” when tapping it,QATC-811812,3482779,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 10:34 PM,27/Jul/23 2:22 AM,17/Nov/23 8:49 PM,27/Jul/23 2:22 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get personal Apps
+ # Tap on Greeting
+ # Tap on Create New Greeting
+ # Observed the window title
+
+*Actual Result:* Create new greeting is displayed “Get personal” title bar instead of “New Greetings” when tapping it
+
+*Expected Result:* Create  new greeting should be displayed New greeting when tapping on it","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 10:34 PM;m.foysal;apps greeting displayed.mp4;https://jira.a1qa.com/secure/attachment/2388605/apps+greeting+displayed.mp4","25/Jul/23 10:32 PM;m.foysal;New greeting displayed.jpg;https://jira.a1qa.com/secure/attachment/2388606/New+greeting+displayed.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgw1b:",9223372036854775807,,,,,,,5-Enhancement,,,,,,,,,,,,,,,,,,
+Get Personal: No trial period message and purchase button are displayed when opening the application first time,QATC-811811,3482772,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 10:24 PM,27/Jul/23 2:21 AM,17/Nov/23 8:49 PM,27/Jul/23 2:21 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Install this application 
+ # Open Get Personal Apps
+ # Observed the window
+ # There is no trial message 
+
+*Actual result:*  No trial period message and purchase button are displayed when opening the application first time
+
+*Expected Result:* The trial period message should be displayed also a purchase button when opening the application the first time","{*}OS{*}: Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 10:23 PM;m.foysal;no trial message.jpg;https://jira.a1qa.com/secure/attachment/2388600/no+trial+message.jpg","25/Jul/23 10:23 PM;m.foysal;Trial message.jpg;https://jira.a1qa.com/secure/attachment/2388601/Trial+message.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgw07:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
+Get Personal: Help: Help window is displayed “how to activate personal voicemail service” instead of How it works Greetings and Quick status,QATC-811810,3482768,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 10:15 PM,27/Jul/23 2:20 AM,17/Nov/23 8:49 PM,27/Jul/23 2:20 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on top menu bar
+ # Tap on Help
+ # Observed the window
+
+{*}Actual Result{*}: Help window is displayed “how to activate personal voicemail service” instead of How it works Greetings and Quick status.
+
+*Expected Result:* The help window should be displayed How it works Greeting and Quick status.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 10:15 PM;m.foysal;Help is displayed.jpg;https://jira.a1qa.com/secure/attachment/2388599/Help+is+displayed.jpg","25/Jul/23 10:15 PM;m.foysal;Help should be displayed.jpg;https://jira.a1qa.com/secure/attachment/2388598/Help+should+be+displayed.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgvzb:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
+Get Personal: Home title is displayed Get personal instead of Voice mail,QATC-811793,3482727,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 9:07 PM,27/Jul/23 2:18 AM,17/Nov/23 8:49 PM,27/Jul/23 2:18 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal apps
+ # Observed the window
+ # Get Personal is displayed
+
+*Actual Result:* Home title is displayed Get personal instead of Voice mail
+
+*Expected Result:* The title should be displayed  Voice mail
+
+*Additional Information:* 
+ #  This title should be displayed in the payment window
+ # When active service is off this title should be displayed 
+ # When Quick status is open this title should be displayed
+ # When the setting is open this title should be displayed","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 9:07 PM;m.foysal;Voice mail instead of get personal.mp4;https://jira.a1qa.com/secure/attachment/2388567/Voice+mail+instead+of+get+personal.mp4","25/Jul/23 9:04 PM;m.foysal;voice mail payment window.jpg;https://jira.a1qa.com/secure/attachment/2388569/voice+mail+payment+window.jpg","25/Jul/23 9:04 PM;m.foysal;voice mail quick status.jpg;https://jira.a1qa.com/secure/attachment/2388568/voice+mail+quick+status.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgvq7:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Quick status: Quick status is displayed radio button instead of toggle ,QATC-811783,3482697,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 8:50 PM,27/Jul/23 2:18 AM,17/Nov/23 8:49 PM,27/Jul/23 2:18 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Ger personal Apps
+ # Tap on Quick Status
+ # Observed the previously saved status
+ # There are radio button
+
+*Actual Result:* Quick status is displayed radio button instead of toggle 
+*Expected Result:* Quick status should be displayed toggle button","{*}OS{*}: Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 8:50 PM;m.foysal;Radio button is displayed.mp4;https://jira.a1qa.com/secure/attachment/2388542/Radio+button+is+displayed.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgvjj:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Quick status: Delete status button does not delete the status when taping on it,QATC-811781,3482694,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 8:43 PM,27/Jul/23 2:16 AM,17/Nov/23 8:49 PM,27/Jul/23 2:16 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on Quick status
+ # Tap on Hello
+ # Tap on Delete Status
+ # Observed the result
+
+*Actual Result:* Delete status button does not delete the status when taping on it
+
+*Expected Result:* Delete status button should delete the Quick status when Tapping on it.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 8:43 PM;m.foysal;delete status button is not working.mp4;https://jira.a1qa.com/secure/attachment/2388537/delete+status+button+is+not+working.mp4","25/Jul/23 8:43 PM;m.foysal;delete status button is not working.txt;https://jira.a1qa.com/secure/attachment/2388536/delete+status+button+is+not+working.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgviv:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
+Greeting: Create new Greeting: Greeting can be saved when media permission is denied,QATC-811775,3482681,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 8:30 PM,27/Jul/23 2:16 AM,17/Nov/23 8:49 PM,27/Jul/23 2:16 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get personal Apps
+ # Tap on Greetings
+ # Tap on Create new Greeting
+ # Tap on Record icon
+ # Tap on check mark button
+ # Fill the title 
+ # Tap on Save
+ # Observed the result
+
+*Actual Result:* Greeting can be saved when media permission is denied
+
+*Expected Result:* Greeting can't be saved when media permission is denied. A pop up window should be displayed allow media and files permissions
+
+*Additional Information:* This issue same for the Qucick Status Cerate new Status","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 8:29 PM;m.foysal;create greeting can be saved with out media permission.mp4;https://jira.a1qa.com/secure/attachment/2388525/create+greeting+can+be+saved+with+out+media+permission.mp4","25/Jul/23 8:29 PM;m.foysal;create greeting can be saved with out media permission.txt;https://jira.a1qa.com/secure/attachment/2388524/create+greeting+can+be+saved+with+out+media+permission.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgvfz:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greeting: New 1: Meeting Greeting: Select recipient switch to contact page and display previously total selected contact when contact permission is denied,QATC-811719,3482487,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,25/Jul/23 6:08 PM,25/Jul/23 6:08 PM,17/Nov/23 8:49 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get personal Apps
+ # Tap on Greeting
+ # Tap on New 1
+ # Tap on Select a recipient
+ # Observed the result
+
+*Actual Result:* Select recipient switch to contact page and display previously total selected contact when contact permission is denied
+
+*Expected Result:* Select recipient displayed a pop up message Allow contact permission when tap on it.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 6:07 PM;m.foysal;contact permission is dined.mp4;https://jira.a1qa.com/secure/attachment/2388382/contact+permission+is+dined.mp4","25/Jul/23 6:07 PM;m.foysal;contact permission is dined.txt;https://jira.a1qa.com/secure/attachment/2388381/contact+permission+is+dined.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgu9j:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greetings: Create new Greeting: Recording is possible when Microphone and files and media permission is denied,QATC-811711,3482474,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 5:55 PM,27/Jul/23 2:15 AM,17/Nov/23 8:49 PM,27/Jul/23 2:15 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get personal apps
+ # Tap on Greetings
+ # Tap on Create new greetings
+ # Tap on record icon
+ # Observed the result
+
+*Actual Result:* Recording is possible when Microphone and files and media permission is denied
+
+*Expected Result:* A popup window should be displayed ( Microphone and Files and media_) allow permission.
+
+*Additional information:* This issue is the same for the Quick status creating time","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 5:54 PM;m.foysal;record without permission.mp4;https://jira.a1qa.com/secure/attachment/2388359/record+without+permission.mp4","25/Jul/23 5:54 PM;m.foysal;record without permission.txt;https://jira.a1qa.com/secure/attachment/2388358/record+without+permission.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgu6n:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greetings:New1: The greeting is also saved when the title name is empty,QATC-811708,3482465,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 5:41 PM,27/Jul/23 2:15 AM,17/Nov/23 8:49 PM,27/Jul/23 2:15 AM,1.0,Voicemail,,0,"*Steps to* *reproduce:*
+ # Open Get Personal Apps
+ # Tap on Greetings
+ # Tap on New 1
+ # Empty the title
+ # Tap on Saved button
+ # Observed the result
+
+*Actual Result:* The greeting is also saved when the title name is empty
+
+*Expected Result:* The Greeting should not be saved without title. A pop up message will be displayed please enter a title.
+
+*Additional Information:* This issue is same for Quick Status ","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 5:40 PM;m.foysal;without title.mp4;https://jira.a1qa.com/secure/attachment/2388354/without+title.mp4","25/Jul/23 5:40 PM;m.foysal;without title.txt;https://jira.a1qa.com/secure/attachment/2388353/without+title.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgu4n:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,"25/Jul/23 5:43 PM;m.foysal;h3. Greetings:New4: The greeting is also saved when the title name is empty
+
+*Steps to* *reproduce:*
+ # 
+h4. Open Get Personal Apps
+
+ # 
+h4. Tap on Greetings
+
+ # 
+h4. Tap on New 4
+
+ # 
+h4. Empty the title
+
+ # 
+h4. Tap on Saved button
+
+ # 
+h4. Observed the result;;;"
+Greetings: Get Personal: New Recording time When tapping on the back button it returns to the Greeting window with out display any pop up message,QATC-811703,3482435,Bug,To Be Reformulated,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,25/Jul/23 5:07 PM,27/Jul/23 6:36 PM,17/Nov/23 8:49 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal App
+ # Tap on Greetings
+ # Tap on creating new Greetings
+ # Tap on the recording icon
+ # Tap on system navigation or app back button
+ # Observed the result
+
+*Actual Result:* New Recording time When tapping on the back button it returns to the Greeting window with out display any pop up message
+
+*Expected Result:* New recording time when tapping on the back button a popup message should be displayed. like are you save this record or discard this record.
+
+*Additional Information:* This issue is same for Quick status recording time","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 5:07 PM;m.foysal;recording time no pop up message.mp4;https://jira.a1qa.com/secure/attachment/2388332/recording+time+no+pop+up+message.mp4","25/Jul/23 5:06 PM;m.foysal;recording time no pop up message.txt;https://jira.a1qa.com/secure/attachment/2388331/recording+time+no+pop+up+message.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgtyv:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,"27/Jul/23 6:36 PM;m.foysal;*Summary:* The back button returns to the Greeting window without pop-up messages when the recording is ongoing;;;"
+"Greetings: The record is still playing when playing a record in the ""Greeting"" window and switches to the ""Quick status"" window",QATC-811696,3482401,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 4:53 PM,27/Jul/23 2:13 AM,17/Nov/23 8:49 PM,27/Jul/23 2:13 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Click on Greetings
+ # Play any greetings
+ # Switch the window to Quick status
+ # Observed the result
+ # Recording is still playing
+
+*Actual Result:* The record is still playing when playing a record in the ""Greeting"" window and switches to the ""Quick status"" window
+
+*Expected Result:* The record should be stopped or paused when switching the window.
+
+*Additional Information:* This issue is the same for the Quick Status","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 4:52 PM;m.foysal;record playing when change the window.mp4;https://jira.a1qa.com/secure/attachment/2388321/record+playing+when+change+the+window.mp4","25/Jul/23 4:52 PM;m.foysal;record playing when change the window.txt;https://jira.a1qa.com/secure/attachment/2388320/record+playing+when+change+the+window.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgtrj:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greetings: Multiple records are playing at a time when tapping on multiple play button,QATC-811694,3482389,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 4:43 PM,27/Jul/23 2:12 AM,17/Nov/23 8:49 PM,27/Jul/23 2:12 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Ger Personal Apps
+ # Click on Greeting 
+ # Tap on the play button on multiple pre-recorded greeting
+ # Observed the result
+
+*Actual Result:* Multiple records are playing at a time when tapping on multiple play button
+
+*Expected Result:* Only one record can be played at a time
+
+*Additional Information:* This issue is the same for Quick status.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 4:43 PM;m.foysal;Multiple record can be played 1.mp4;https://jira.a1qa.com/secure/attachment/2388304/Multiple+record+can+be+played+1.mp4","25/Jul/23 4:40 PM;m.foysal;Multiple record can be played.mp4;https://jira.a1qa.com/secure/attachment/2388306/Multiple+record+can+be+played.mp4","25/Jul/23 4:40 PM;m.foysal;Multiple record can be played.txt;https://jira.a1qa.com/secure/attachment/2388305/Multiple+record+can+be+played.txt",,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgtp3:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Get Personal: Settings: Selecting 10  number for Time before greeting when back to the get personal page and then opened the setting window it’s changed to 5,QATC-811690,3482383,Bug,To Be Reformulated,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,25/Jul/23 4:33 PM,27/Jul/23 6:39 PM,17/Nov/23 8:49 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on menu bar top of the right side
+ # Tap on setting
+ # Tap on time before greeting 
+ # Change 5 to 10
+ # Back to  Get personal window
+ # steps 2 to 3 again 
+ # Observed the result
+
+*Actual Result:* Selecting 10  number for Time before greeting when back to the get personal page and then opened the setting window it’s changed to 5
+
+*Expected Result:* Selecting number should be same time before greeting when back to the get personal page and then opened the setting window ","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 4:33 PM;m.foysal;Time before Greeting.mp4;https://jira.a1qa.com/secure/attachment/2388298/Time+before+Greeting.mp4","25/Jul/23 4:33 PM;m.foysal;Time before Greeting.txt;https://jira.a1qa.com/secure/attachment/2388297/Time+before+Greeting.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgtnr:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,"27/Jul/23 6:39 PM;m.foysal;*Summary:* Time before greeting setecting numbers is not saved when back to the setting window ;;;"
+Get Personal: Settings: The Purchase option is not working when tapping on it,QATC-811686,3482377,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 4:23 PM,27/Jul/23 2:10 AM,17/Nov/23 8:49 PM,27/Jul/23 2:10 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Click Menu ban top of the right corner
+ # Click on Setting
+ # Tap on Purchase
+ # Observed the Result
+
+*Actual Result:* The purchase option is not working when tapping on it
+
+*Expected Result:* The purchase option should be redirected to the purchase page
+
+ ","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"26/Jul/23 9:12 PM;m.foysal;Purchase option when open the apps first time.mp4;https://jira.a1qa.com/secure/attachment/2389099/Purchase+option+when+open+the+apps+first+time.mp4","25/Jul/23 4:23 PM;m.foysal;Purchase option.mp4;https://jira.a1qa.com/secure/attachment/2388288/Purchase+option.mp4","25/Jul/23 4:23 PM;m.foysal;Purchase option.txt;https://jira.a1qa.com/secure/attachment/2388287/Purchase+option.txt","25/Jul/23 4:23 PM;m.foysal;Purchase Page.jpg;https://jira.a1qa.com/secure/attachment/2388286/Purchase+Page.jpg","26/Jul/23 9:13 PM;m.foysal;use for free 2 weeks.mp4;https://jira.a1qa.com/secure/attachment/2389102/use+for+free+2+weeks.mp4",,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgtmf:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,"26/Jul/23 9:14 PM;m.foysal;*Additional information:* 
+ # when the first time open the app also purchase option is not redirected to the payment or purchase page. It's opens the Greetings window when Tap on it.
+ # Also ""Free for two weeks"" link in not working
+ # [^Purchase option when open the apps first time.mp4]
+ # [^use for free 2 weeks.mp4];;;"
+Greetings: Duplicate name is accepted when creating a new greeting ,QATC-811591,3482125,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,25/Jul/23 12:26 AM,27/Jul/23 2:02 AM,17/Nov/23 8:49 PM,27/Jul/23 2:02 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal apps
+ # Tap on Greeting
+ # Create a new greeting with the existing title
+ # Save it
+ # Observed the result
+
+*Actual Result:* Duplicate name is accepted when creating a new greeting 
+
+*Expected Result:* Duplicate names should not be accepted for new greeting
+
+*Additional Information:* This issue is the same for the Quick status","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"25/Jul/23 12:24 AM;m.foysal;duplicate greeting.mp4;https://jira.a1qa.com/secure/attachment/2388109/duplicate+greeting.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgs4f:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
+Greetings: Get Personal: Spamming on the pause and recording button returns to the greeting page,QATC-811565,3482050,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,24/Jul/23 11:10 PM,24/Jul/23 11:10 PM,17/Nov/23 8:48 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get personal app
+ # Tap op Greeting
+ # Tap on create new greeting
+ # Tap on Start record icon
+ # Then spamming on the pause and start the record button
+ # Observed the result
+
+*Actual Result:* Spamming on the pause and recording button returns to the greeting page
+
+{*}Expected Result{*}: The pause and record buttons should be working after spamming ","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 11:10 PM;m.foysal;Spamming on the paused and play button.mp4;https://jira.a1qa.com/secure/attachment/2388059/Spamming+on+the+paused+and+play+button.mp4","24/Jul/23 11:10 PM;m.foysal;Spamming on the paused and play button.txt;https://jira.a1qa.com/secure/attachment/2388058/Spamming+on+the+paused+and+play+button.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgron:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greetings: The toggle is off when the active greeting is hidden by the header,QATC-811559,3482037,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,24/Jul/23 10:54 PM,27/Jul/23 2:09 AM,17/Nov/23 8:49 PM,27/Jul/23 2:09 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get personal Apps
+ # Tap on Greetings
+ # Toggle on previously saved some greetings
+ # Scroll up and down 
+ # Observed the Result
+ # All toggle is Off
+
+*Actual Result:* The toggle is off when the active greeting is hidden by the header
+
+*Expected Result:* The toggle should be active when the greeting is hidden by the header","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 10:54 PM;m.foysal;toggle is deactive.mp4;https://jira.a1qa.com/secure/attachment/2388049/toggle+is+deactive.mp4","24/Jul/23 10:54 PM;m.foysal;toggle is deactive.txt;https://jira.a1qa.com/secure/attachment/2388048/toggle+is+deactive.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgrlz:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greetings: No progress bar is displayed under the greetings when playing the greetings,QATC-811555,3482032,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,24/Jul/23 10:35 PM,27/Jul/23 2:08 AM,17/Nov/23 8:49 PM,27/Jul/23 2:08 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tap on any previously recorded play button
+ # Observed the result
+ # There is no progress bas under the Greeting
+
+*Actual Result:* No progress bar is displayed under the greetings when playing the greetings
+
+*Expected Result:* The progress bar should be displayed under the playing greetings
+
+*Additional Information:* This issue is the same for Quick status no progress bar is displayed when tapping on the play button under the status","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 10:32 PM;m.foysal;Greeting under progress bar.jpg;https://jira.a1qa.com/secure/attachment/2388039/Greeting+under+progress+bar.jpg","24/Jul/23 10:32 PM;m.foysal;No progress bar is displayed.mp4;https://jira.a1qa.com/secure/attachment/2388041/No+progress+bar+is+displayed.mp4","24/Jul/23 10:32 PM;m.foysal;No progress bar is displayed.txt;https://jira.a1qa.com/secure/attachment/2388040/No+progress+bar+is+displayed.txt",,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgrl3:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greeting: Meeting Greeting: Select Recepient: Selecting numbers becomes unselected when tap on navigation back button and scrolling ups and down,QATC-811552,3482023,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,24/Jul/23 10:16 PM,24/Jul/23 10:16 PM,17/Nov/23 8:49 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal apps
+ # Tap on Meeting Greeting
+ # Tap on Select recipient
+ # Tap on navigation back button 
+ # Scrolling up and down
+ # Observed the result
+
+*Actual Result:* Selecting numbers becomes unselected when tap on navigation back button and scrolling ups and down
+
+*Expected Result:* Selecting numbers should be selectable when tap on navication back button and scroll up and down","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 10:16 PM;m.foysal;Selecting numbers become unselectable.mp4;https://jira.a1qa.com/secure/attachment/2388034/Selecting+numbers+become+unselectable.mp4","24/Jul/23 10:16 PM;m.foysal;Selecting numbers become unselectable.txt;https://jira.a1qa.com/secure/attachment/2388033/Selecting+numbers+become+unselectable.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgrj3:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greeting: New 1: Select Recepient: The check button is active when no contact is selected,QATC-811549,3482013,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,24/Jul/23 10:06 PM,24/Jul/23 10:06 PM,17/Nov/23 8:49 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get personal app
+ # Tap on New 1
+ # Tap on select recipient
+ # Select a contact and unselect this contact
+ # Observed the check mark
+ # It is also active
+
+*Actual Result:* The check button is active when no contact is selected
+
+{*}Expected Result{*}: The check button should be disabled when no contact is selected","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 10:06 PM;m.foysal;check mark is also active when no contact in select.mp4;https://jira.a1qa.com/secure/attachment/2388030/check+mark+is+also+active+when+no+contact+in+select.mp4","24/Jul/23 10:06 PM;m.foysal;check mark is also active when no contact in select.txt;https://jira.a1qa.com/secure/attachment/2388029/check+mark+is+also+active+when+no+contact+in+select.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgrgv:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
+Greeting: New 1: Select Recepient:  Select and unselect a contact search bar and the close button are disappeared,QATC-811545,3481987,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,24/Jul/23 9:44 PM,24/Jul/23 9:44 PM,17/Nov/23 8:48 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal App
+ # Tap on New 1
+ # Tap on select recipient
+ # Select any contact
+ # Unselect this contact
+ # Observed the result
+
+*Actual Result:* Select and unselect a contact search bar and the close button are disappeared
+
+*Expected Result:* The search bar should be displayed when selecting and unselect  a contact","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 9:44 PM;m.foysal;Select and unselect a contact.mp4;https://jira.a1qa.com/secure/attachment/2388025/Select+and+unselect+a+contact.mp4","24/Jul/23 9:44 PM;m.foysal;Select and unselect a contact.txt;https://jira.a1qa.com/secure/attachment/2388024/Select+and+unselect+a+contact.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgrb3:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
+Greeting: New 1: Select Recepient:  Contact name is hidden by number when name contain 29 characters,QATC-811543,3481980,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,24/Jul/23 9:35 PM,24/Jul/23 9:35 PM,17/Nov/23 8:49 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal app
+ # Tap on New 1
+ # Tap on select recipient
+ # Scroll down the contact list
+ # Observed the result
+
+*Actual Result:* Contact name is hidden by number when name contain 29 characters
+
+*Expected Result:* The contact name should be displayed properly ","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 9:35 PM;m.foysal;29 charecter.jpg;https://jira.a1qa.com/secure/attachment/2388016/29+charecter.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgr9j:",9223372036854775807,,,,,,,4-Minor,,,,,,,,,,,,,,,,,,
+Greeting: New 1: Select Recipient: Contact image is displayed small size and the contact name is hidden by numbers,QATC-811541,3481976,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,24/Jul/23 9:25 PM,27/Jul/23 2:04 AM,17/Nov/23 8:49 PM,27/Jul/23 2:04 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal apps
+ # Tap on New 1
+ # Tap on Select recipient
+ # Observed the contact list by scrolling
+
+*Actual Result:* Contact image is displayed small size and the contact name is hidden by numbers
+
+*Expected Result:* The contact image should be displayed properly also name should be visible clearly.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 9:24 PM;m.foysal;contact icon is small.mp4;https://jira.a1qa.com/secure/attachment/2388008/contact+icon+is+small.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgr8n:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
+Greeting: New 1: Select Recepient: Searching by alphabet display all name that contains this alphabet instead of which name is started by this alphabet,QATC-811538,3481970,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,24/Jul/23 9:14 PM,27/Jul/23 1:57 AM,17/Nov/23 8:49 PM,27/Jul/23 1:57 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open the Get Personal app
+ # Tap on the New 1
+ # Tap on Select Recipient
+ # Tap on the search bar
+ # Input any contact First alphabet
+ # Observed the result
+
+*Actual Result:* Searching by alphabet display all name that contains this alphabet instead of which name is started by this alphabet.
+
+*Expected Result:* Searching by alphabet should display all names starting with this alphabet.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 9:14 PM;m.foysal;searching by alphabet.mp4;https://jira.a1qa.com/secure/attachment/2388004/searching+by+alphabet.mp4","24/Jul/23 9:14 PM;m.foysal;searching by alphabet.txt;https://jira.a1qa.com/secure/attachment/2388003/searching+by+alphabet.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgr7b:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
+Greeting: Meeting Greeting: The save button is disabled when unselecting all repeat days that are saved before,QATC-811506,3481819,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,24/Jul/23 6:45 PM,27/Jul/23 1:57 AM,17/Nov/23 8:49 PM,27/Jul/23 1:57 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open the Get Personal app
+ # Tab on any previously saved greetings
+ # Unselect all repeat day
+ # Try to save 
+ # Observed the day picker window
+ # The save button is disabled
+
+*Actual Result:* The save button is disabled when unselecting all repeat days that are saved before
+
+*Expected Result:* The save button should be active when unselecting all the repeat days.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 6:45 PM;m.foysal;Repeat day unselectable.mp4;https://jira.a1qa.com/secure/attachment/2387885/Repeat+day+unselectable.mp4","24/Jul/23 6:45 PM;m.foysal;Repeat day unselectable.txt;https://jira.a1qa.com/secure/attachment/2387884/Repeat+day+unselectable.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgqav:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,"24/Jul/23 6:49 PM;m.foysal;*Steps to reproduce:*
+ # Open the Get Personal app
+ # Tab on Meeting Greeting
+ # Unselect all repeat day
+ # Try to save 
+ # Observed the day picker window
+ # The save button is disabled;;;"
+Greeting: Meeting Greeting: The end time can be set less than the start time choosing only one repeat day,QATC-811505,3481814,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,24/Jul/23 6:36 PM,27/Jul/23 1:56 AM,17/Nov/23 8:49 PM,27/Jul/23 1:56 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open the get personal app
+ # Tap on any previously saved greetings
+ # Try to set the time from 9:00 pm to 8:00 Pm
+ # Select only one Repeat day
+ # Try to save 
+ # It can be saved 
+
+*Actual Result:* The end time can be set less than the start time when choosing only one repeat day
+
+*Expected Result:* The end time can't be set less than the start time when only one repeat day is chosen
+
+*Additional Information:* The grating can be saved by keeping the start time and end time the same","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 6:35 PM;m.foysal;start time can be less than end time.mp4;https://jira.a1qa.com/secure/attachment/2387881/start+time+can+be+less+than+end+time.mp4","24/Jul/23 6:35 PM;m.foysal;start time can be less than end time.txt;https://jira.a1qa.com/secure/attachment/2387880/start+time+can+be+less+than+end+time.txt",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgq9r:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,"24/Jul/23 6:52 PM;m.foysal;h4. Greeting: New 2: The end time can be set less than the start time choosing only one repeat day
+
+*Steps to reproduce:*
+ # Open the get personal app
+ # Tap on New 2
+ # Try to set the time from 9:00 pm to 8:00 Pm
+ # Select only one Repeat day
+ # Try to save 
+ # It can be saved ;;;"
+Greetings: New Greetings: Discard button is displayed a delete icon instead of a cross icon,QATC-811499,3481799,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,24/Jul/23 6:01 PM,27/Jul/23 4:15 PM,17/Nov/23 8:49 PM,27/Jul/23 1:55 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal app
+ # Tap on Create new greeting
+ # Tap on the start recording icon
+ # Tap on the check button 
+ # Observed the Discard button
+ # There is a delete icon instead of cross iocn
+
+*Actual Result:* Discard button is displayed a delete icon instead of a cross icon
+
+*Expected Result:* Discard button should be displayed cross icon beside the left side of the text.
+
+*Additional Information:* This issue is the same for the Quick status New status window.","{*}OS{*}: Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 6:01 PM;m.foysal;Discard button.jpg;https://jira.a1qa.com/secure/attachment/2387852/Discard+button.jpg","24/Jul/23 6:01 PM;m.foysal;Discard button.mp4;https://jira.a1qa.com/secure/attachment/2387851/Discard+button.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgq73:",9223372036854775807,,,,,,,4-Minor,,,,,,,,,,,,,,,,,,
+Greeting: Get personal: After pausing tap on the record button its started recording from the beginning instead of Pause time,QATC-811498,3481794,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,24/Jul/23 5:52 PM,27/Jul/23 1:54 AM,17/Nov/23 8:49 PM,27/Jul/23 1:54 AM,1.0,Voicemail,,0,"Steps to reproduce:
+ # Open the get personal app
+ # Tap on Create new greeting
+ # Tap on the recording icon
+ # Then Tap on the paused button
+ # Tap on the recording button
+ # Observed the result
+ # Recording started from first
+
+*Actual Result:* After pausing tap on the record button its started recording from the beginning instead of Pause time
+
+*Expected Result:* After pausing tap on the record button it should be recording from the paused time
+
+*Additional Information:* This issue is the same for the Quick status paused and the recording button","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 5:51 PM;m.foysal;paused and start beganing.txt;https://jira.a1qa.com/secure/attachment/2387849/paused+and+start+beganing.txt","24/Jul/23 5:51 PM;m.foysal;Pausing its start from first.mp4;https://jira.a1qa.com/secure/attachment/2387848/Pausing+its+start+from+first.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgq5z:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greeting: Get personal: Pause button is displayed Stoped instead of Paused when tap on it,QATC-811494,3481782,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,24/Jul/23 5:33 PM,24/Jul/23 5:33 PM,17/Nov/23 8:49 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open the Get Personal app
+ # Tap on Create New Greeting
+ # Tap on the recording icon
+ # Tap on the paused button
+ # Observed the result
+ # Stoped is displayed instead of Paused
+
+*Actual Result:* Pause button is displayed Stoped instead of Paused when tap on it
+
+*Expected Result:* Paused button should be displayed Paused when tapping on it
+
+*Additional Information:* This issue is the same for the Quick status paused button","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 5:33 PM;m.foysal;Paused.jpg;https://jira.a1qa.com/secure/attachment/2387838/Paused.jpg","24/Jul/23 5:33 PM;m.foysal;Paused.mp4;https://jira.a1qa.com/secure/attachment/2387837/Paused.mp4",,,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgq3b:",9223372036854775807,,,,,,,5-Enhancement,,,,,,,,,,,,,,,,,,
+Greetings: Ger personal: Recording started without moving the progress bar when tapping on the record icon,QATC-811490,3481772,Bug,Open,QATC,Training Center,software,a.golubovich,,,Major,,,m.foysal,m.foysal,24/Jul/23 5:20 PM,24/Jul/23 5:20 PM,17/Nov/23 8:48 PM,,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Ger Personal app
+ # Tap on Create new status
+ # Tap on the record icon
+ # Observed the Progress bar
+ # Progress bas is not moving
+
+*Actual Result:* Recording started without moving the progress bar when tapping on the record icon
+
+*Expected Result:* The progress bar should be moving when the recording is started.
+
+*Additional Information:* This issue is the same for the Quick status recording progress bar.
+
+ ","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 5:20 PM;m.foysal;progress bar is moving.jpg;https://jira.a1qa.com/secure/attachment/2387829/progress+bar+is+moving.jpg","24/Jul/23 5:20 PM;m.foysal;progress bar is moving.mp4;https://jira.a1qa.com/secure/attachment/2387828/progress+bar+is+moving.mp4","24/Jul/23 5:20 PM;m.foysal;progress bar.txt;https://jira.a1qa.com/secure/attachment/2387827/progress+bar.txt",,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,Functional,,,,,,,,,,,,,,,,,,,,,,"0|idgq13:",9223372036854775807,,,,,,,2-Major,,,,,,,,,,,,,,,,,,
+Greetings: Get personal: Record max time is displayed 9.00 Minuit’s instead of 9.59 Minuit’s,QATC-811487,3481752,Bug,Resolved,QATC,Training Center,software,a.golubovich,,,Major,Fixed,,m.foysal,m.foysal,24/Jul/23 5:01 PM,27/Jul/23 1:54 AM,17/Nov/23 8:48 PM,27/Jul/23 1:54 AM,1.0,Voicemail,,0,"*Steps to reproduce:*
+ # Open Get Personal Apps
+ # Tab on Create new greeting
+ # Observed the window 
+ # Recording time is displayed 9.00
+
+*Actual Result:* Record max time is displayed 9.00 Minuit’s instead of 9.59 Minuit’s
+
+*Expected Result:* Recording max time should be 9.59 Minuit's
+
+*Additional Information:* This issue is the same for Quick status recording time.","*OS:* Android, Version 12.0",,,,,,,,Leads and Reporter only,"24/Jul/23 4:53 PM;m.foysal;Record time.jpg;https://jira.a1qa.com/secure/attachment/2387808/Record+time.jpg","24/Jul/23 4:53 PM;m.foysal;recording time.mp4;https://jira.a1qa.com/secure/attachment/2387807/recording+time.mp4","24/Jul/23 4:53 PM;m.foysal;Voicemail_record_v1_1a.jpg;https://jira.a1qa.com/secure/attachment/2387806/Voicemail_record_v1_1a.jpg",,,,,,,,,,,,,,,,,,,,,,,,,,All,,,,,,,,,,,,GUI,,,,,,,,,,,,,,,,,,,,,,"0|idgpwn:",9223372036854775807,,,,,,,3-Average,,,,,,,,,,,,,,,,,,
