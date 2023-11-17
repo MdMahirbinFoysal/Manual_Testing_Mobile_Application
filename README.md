@@ -10,5 +10,5 @@ Performed Test:
 2. Usability Testing
 3. Regression Testing
 4. GUI Testing
-5. Performance Testing
-Also Creating Test Documentation and Quality Report.
+5. Performance Testing.
+>Creating Test Documentation and Quality Report.
