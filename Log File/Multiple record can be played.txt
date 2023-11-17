@@ -1,0 +1,59 @@
+2023-07-25 16:38:14.492 13136-13136 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 16:38:14.492 13136-13136 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 16:38:14.492 13136-13136 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 16:38:14.499 13136-13136 Compatibil...geReporter com.itransition.voicemail            D  Compat change id reported: 171228096; UID 10565; state: ENABLED
+2023-07-25 16:38:14.499 13136-13136 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 16:38:14.500 13136-13136 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 16:38:14.500 13136-13136 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 16:38:14.506 13136-13136 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@fb3d19d[MainActivity],pkg= com.itransition.voicemail
+2023-07-25 16:38:14.542 13136-13136 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.263442845
+2023-07-25 16:38:14.550 13136-13153 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 16:38:14.996 13136-13158 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 16:38:19.530 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:19.530 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:19.602 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 4 cost 66.85824 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:20.677 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:20.677 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:20.736 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 3 cost 53.746983 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:21.062 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:21.063 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:21.113 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 37.634727 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:21.474 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:21.474 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:21.532 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 46.634712 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:21.820 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:21.820 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:21.863 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 33.267323 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:22.097 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:22.097 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:22.142 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 33.077427 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:22.426 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:22.426 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:22.478 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 41.549786 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:23.725 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:23.725 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:23.771 13136-13136 MediaPlayer             com.itransition.voicemail            W  mediaplayer went away with unhandled events
+2023-07-25 16:38:23.771 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 39.298637 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:27.035 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:27.035 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:27.048 13136-13136 MediaPlayer             com.itransition.voicemail            W  mediaplayer went away with unhandled events
+2023-07-25 16:38:27.137 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:27.137 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:27.180 13136-13136 MediaPlayer             com.itransition.voicemail            W  mediaplayer went away with unhandled events
+2023-07-25 16:38:27.180 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 38.57876 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:28.496 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:28.496 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:28.541 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 39.197815 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:28.547 13136-13136 MediaPlayer             com.itransition.voicemail            W  mediaplayer went away with unhandled events
+2023-07-25 16:38:28.636 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:28.636 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:28.679 13136-13136 MediaPlayer             com.itransition.voicemail            W  mediaplayer went away with unhandled events
+2023-07-25 16:38:28.679 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 29.480892 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:29.431 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:29.431 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:29.457 13136-13136 MediaPlayer             com.itransition.voicemail            W  mediaplayer went away with unhandled events
+2023-07-25 16:38:29.457 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 20.471178 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 16:38:29.917 13136-13136 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 16:38:29.917 13136-13136 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 16:38:29.978 13136-13136 MediaPlayer             com.itransition.voicemail            W  mediaplayer went away with unhandled events
+2023-07-25 16:38:29.979 13136-13136 Quality                 com.itransition.voicemail            I  Skipped: false 3 cost 50.30222 refreshRate 0 processName com.itransition.voicemail

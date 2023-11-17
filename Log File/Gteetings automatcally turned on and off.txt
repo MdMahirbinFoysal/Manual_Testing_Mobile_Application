@@ -1,0 +1,80 @@
+2023-07-26 13:10:46.462 12139-12139 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 13:10:46.462 12139-12139 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 13:10:46.462 12139-12139 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 13:10:46.468 12139-12139 Compatibil...geReporter com.itransition.voicemail            D  Compat change id reported: 171228096; UID 10565; state: ENABLED
+2023-07-26 13:10:46.468 12139-12139 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 13:10:46.469 12139-12139 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 13:10:46.469 12139-12139 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 13:10:46.475 12139-12139 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@fb3d19d[MainActivity],pkg= com.itransition.voicemail
+2023-07-26 13:10:46.507 12139-12139 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.263442845
+2023-07-26 13:10:46.522 12139-12155 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-26 13:10:46.544 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 30.797754 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:46.871 12139-12139 Quality                 com.itransition.voicemail            I  ActivityThread: performLayout delay 317 com.itransition.voicemail 12139
+2023-07-26 13:10:46.992 12139-12160 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-26 13:10:51.056 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 3 cost 50.75776 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:51.207 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 37.926594 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:51.244 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:10:51.468 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 20.25496 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:51.603 12139-12139 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 13:10:51.603 12139-12139 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 13:10:51.603 12139-12139 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 13:10:52.307 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 37.81692 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:52.444 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 28.634283 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:52.870 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: true 1 cost 29.184679 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:54.786 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 26.417313 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:54.935 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 27.874908 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:55.706 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 45.26516 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:55.801 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 41.382053 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:56.014 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 41.86592 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:56.477 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: true 3 cost 61.850487 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:56.769 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 3 cost 58.92162 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:56.820 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 27.405703 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:10:57.107 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 36.32875 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:00.459 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 27.729717 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:00.721 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 3 cost 60.093544 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:01.299 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:01.379 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 29.005136 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:01.689 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 28.078196 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:02.512 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 30.585474 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:02.709 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 47.806736 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:03.311 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 27.297487 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:03.427 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 28.080847 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:03.617 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 37.553585 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:03.884 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: true 1 cost 26.332575 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:04.495 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 30.832787 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:04.643 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:04.648 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:04.661 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 32.473152 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:05.396 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 29.849627 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:05.593 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 29.685915 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:05.922 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 30.990736 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:06.434 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 18.996084 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:06.699 12139-12139 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 21.451231 refreshRate 0 processName com.itransition.voicemail
+2023-07-26 13:11:07.824 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.831 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.838 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.844 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.851 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.856 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.861 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.867 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.874 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.879 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.884 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.889 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.894 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.900 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.904 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.912 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.917 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.930 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.934 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.940 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.947 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.962 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.966 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.970 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.975 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.983 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:07.996 12139-12153 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 13:11:11.968 12139-12160 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()

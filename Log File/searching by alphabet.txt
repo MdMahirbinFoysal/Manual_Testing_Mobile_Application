@@ -1,0 +1,36 @@
+2023-07-24 21:09:16.706 26505-14664 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-24 21:09:16.722 26505-14664 OpenGLRenderer          com.itransition.voicemail            I  Davey! duration=3207ms; Flags=1, FrameTimelineVsyncId=7532584, IntendedVsync=120373726875794, Vsync=120373726875794, InputEventId=0, HandleInputStart=120373729743663, AnimationStart=120373729747777, PerformTraversalsStart=120373729751684, DrawStart=120373767135850, FrameDeadline=120373759662678, FrameInterval=120373729680173, FrameStartTime=16393442, SyncQueued=120373783184809, SyncStart=120373783698559, IssueDrawCommandsStart=120373784462413, SwapBuffers=120373787139600, FrameCompleted=120376934841630, DequeueBufferDuration=21407, QueueBufferDuration=1062969, GpuCompleted=120376934841630, SwapBuffersCompleted=120373788531840, DisplayPresentTime=0, 
+2023-07-24 21:09:21.913 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:21.913 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:21.913 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:21.922 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:21.922 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:21.922 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:21.946 26505-26505 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@14fc4c2[SingleFragmentActivity],pkg= com.itransition.voicemail
+2023-07-24 21:09:21.963 26505-26505 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.22004930
+2023-07-24 21:09:21.974 26505-14664 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-24 21:09:22.431 26505-26523 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-24 21:09:24.578 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:24.578 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:24.578 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:24.588 26505-26505 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@7c5a01[SingleFragmentActivity],pkg= com.itransition.voicemail
+2023-07-24 21:09:24.601 26505-26505 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.8149505
+2023-07-24 21:09:24.608 26505-26861 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-24 21:09:25.069 26505-26523 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-24 21:09:26.746 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.751 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.754 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.760 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.763 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.767 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.775 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.779 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.782 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.786 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:26.790 26505-26516 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-24 21:09:27.816 26505-26505 Quality                 com.itransition.voicemail            I  Skipped: true 3 cost 61.91205 refreshRate 0 processName com.itransition.voicemail
+2023-07-24 21:09:29.001 26505-26505 InputMethodManager      com.itransition.voicemail            D  showSoftInput() view=android.widget.SearchView$SearchAutoComplete{11e6643 VFED..CL. .F....I. 0,0-0,0 #1020465 android:id/search_src_text aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+2023-07-24 21:09:29.112 26505-26505 InsetsController        com.itransition.voicemail            D  show(ime(), fromIme=true)
+2023-07-24 21:09:48.865 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:48.865 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 21:09:48.865 26505-26505 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature

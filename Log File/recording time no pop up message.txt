@@ -1,0 +1,65 @@
+2023-07-25 17:04:38.058 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:38.058 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:38.058 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:38.065 19075-19075 Compatibil...geReporter com.itransition.voicemail            D  Compat change id reported: 171228096; UID 10565; state: ENABLED
+2023-07-25 17:04:38.066 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:38.066 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:38.066 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:38.073 19075-19075 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@fb3d19d[MainActivity],pkg= com.itransition.voicemail
+2023-07-25 17:04:38.110 19075-19075 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.263442845
+2023-07-25 17:04:38.137 19075-19103 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 17:04:38.146 19075-19075 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 29.563808 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 17:04:38.490 19075-19075 Quality                 com.itransition.voicemail            I  ActivityThread: performLayout delay 338 com.itransition.voicemail 19075
+2023-07-25 17:04:38.579 19075-19094 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 17:04:41.685 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:41.685 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:41.685 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:41.709 19075-19075 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@cc337d6[SingleFragmentActivity],pkg= com.itransition.voicemail
+2023-07-25 17:04:41.715 19075-19075 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 25.078592 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 17:04:41.732 19075-19075 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.214120406
+2023-07-25 17:04:41.756 19075-19089 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 17:04:42.202 19075-19094 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 17:04:44.573 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 24
+2023-07-25 17:04:44.573 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 2
+2023-07-25 17:04:44.574 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 23
+2023-07-25 17:04:44.582 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 12
+2023-07-25 17:04:44.585 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 13
+2023-07-25 17:04:44.586 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 15
+2023-07-25 17:04:44.609 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 20
+2023-07-25 17:04:44.611 19075-19075 MediaRecorderExtImpl    com.itransition.voicemail            I  ORMS_ACTION_RECORD is set
+2023-07-25 17:04:44.612 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 16
+2023-07-25 17:04:44.612 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 9
+2023-07-25 17:04:44.612 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 8
+2023-07-25 17:04:44.697 19075-19075 Quality                 com.itransition.voicemail            I  Skipped: false 7 cost 121.60075 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 17:04:51.894 19075-19075 Activity                com.itransition.voicemail            D  com.itransition.voicemail.activity.SingleFragmentActivity@16677bdonBackPressed!
+2023-07-25 17:04:52.013 19075-19075 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 45.11411 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 17:04:52.019 19075-19276 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 17:04:52.334 19075-19075 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 21.518492 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 17:04:52.464 19075-19094 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 17:04:52.481 19075-19075 OplusZoomW...ViewHelper com.itransition.voicemail            V  removeZoomView
+2023-07-25 17:04:55.037 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:55.037 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:55.037 19075-19075 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 17:04:55.052 19075-19075 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@30a7be6[SingleFragmentActivity],pkg= com.itransition.voicemail
+2023-07-25 17:04:55.081 19075-19075 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.51018726
+2023-07-25 17:04:55.092 19075-19276 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 17:04:55.546 19075-19094 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 17:04:55.924 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 24
+2023-07-25 17:04:55.925 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 2
+2023-07-25 17:04:55.925 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 23
+2023-07-25 17:04:55.933 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 12
+2023-07-25 17:04:55.936 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 13
+2023-07-25 17:04:55.937 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 15
+2023-07-25 17:04:55.937 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 20
+2023-07-25 17:04:55.940 19075-19075 MediaRecorderExtImpl    com.itransition.voicemail            I  ORMS_ACTION_RECORD is set
+2023-07-25 17:04:55.941 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 16
+2023-07-25 17:04:55.942 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 9
+2023-07-25 17:04:55.942 19075-19075 CheckPermission         com.itransition.voicemail            E  media_record-code= 8
+2023-07-25 17:04:56.022 19075-19075 Quality                 com.itransition.voicemail            I  Skipped: false 6 cost 103.17509 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 17:05:00.963 19075-19075 Activity                com.itransition.voicemail            D  com.itransition.voicemail.activity.SingleFragmentActivity@d5b5936onBackPressed!
+2023-07-25 17:05:01.067 19075-19075 Quality                 com.itransition.voicemail            I  Skipped: false 2 cost 33.86259 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 17:05:01.074 19075-19279 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 17:05:01.317 19075-19075 Quality                 com.itransition.voicemail            I  Skipped: true 1 cost 20.906384 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 17:05:01.530 19075-19094 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 17:05:01.558 19075-19075 OplusZoomW...ViewHelper com.itransition.voicemail            V  removeZoomView
+2023-07-25 17:05:02.797 19075-19094 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()

@@ -1,0 +1,143 @@
+2023-07-25 18:14:22.371 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  Unknow feature:IOplusTextViewRTLUtilForUG
+2023-07-25 18:14:22.381 32648-32648 ScrollOpti...tionHelper com.itransition.voicemail            D  can't find the config file for optimizaiton
+2023-07-25 18:14:22.381 32648-32648 ScrollOpti...tionHelper com.itransition.voicemail            D  will not debug for debug is false
+2023-07-25 18:14:22.381 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:22.382 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:22.382 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:22.390 32648-32648 OplusCusto...ionManager com.itransition.voicemail            E  sInstance is null, start a new sInstance
+2023-07-25 18:14:22.398 32648-32648 OplusUXIconLoader       com.itransition.voicemail            I  theme=3; uxIconConfig = 216807604070417171
+2023-07-25 18:14:22.399 32648-32648 OplusUXIconLoader       com.itransition.voicemail            I  themeCustomPos=3;commonStylePathArray size=3
+2023-07-25 18:14:22.399 32648-32648 OplusUXIconLoader       com.itransition.voicemail            I  path = android.graphics.Path@6b30e49; config = OplusIconConfig = [ isForeign : true,theme : 3,iconSize : 5000,iconShape : 3,foregroundSize : 5600,artPlusOn : true,shapePath ：null, nightMode : true;enableDarkModeIcon = true, userId = -1 ]
+2023-07-25 18:14:22.399 32648-32648 OplusUXIconLoader       com.itransition.voicemail            V  checkConfig sIconConfig =:OplusIconConfig = [ isForeign : true,theme : 3,iconSize : 5000,iconShape : 3,foregroundSize : 5600,artPlusOn : true,shapePath ：android.graphics.Path@e0d834e, nightMode : true;enableDarkModeIcon = true, userId = 0 ]
+2023-07-25 18:14:22.476 32648-32648 Quality                 com.itransition.voicemail            I  ActivityThread: activityStart delay 132 com.itransition.voicemail 32648
+2023-07-25 18:14:22.479 32648-32648 OplusInputMethodUtil    com.itransition.voicemail            D  init DEBUG to false, update DEBUG_IME to false
+2023-07-25 18:14:22.479 32648-32648 OplusInputMethodUtil    com.itransition.voicemail            D  init DEBUG to false, update DEBUG_IME to false
+2023-07-25 18:14:22.490 32648-32648 OplusSlideAnimOptHelper com.itransition.voicemail            D  com.itransition.voicemail scrollEffectOpt enable = false
+2023-07-25 18:14:22.493 32648-32648 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@e92ae26[SplashActivity],pkg= com.itransition.voicemail
+2023-07-25 18:14:22.496 32648-32720 ExtensionsLoader        com.itransition.voicemail            D  createInstance(64bit) : createExtendedFactory
+2023-07-25 18:14:22.500 32648-32720 ExtensionsLoader        com.itransition.voicemail            D  Opened libhwuiextimpl.so
+2023-07-25 18:14:22.500 32648-32648 ExtensionsLoader        com.itransition.voicemail            D  createInstance(64bit) : createExtendedFactory
+2023-07-25 18:14:22.501 32648-32648 ExtensionsLoader        com.itransition.voicemail            D  Opened libSchedAssistExtImpl.so
+2023-07-25 18:14:22.501 32648-32648 ition.voicemai          com.itransition.voicemail            E  ofbOpen failed with error=No such file or directory
+2023-07-25 18:14:22.501 32648-32648 ition.voicemai          com.itransition.voicemail            E  sysOpen failed with error=No such file or directory
+2023-07-25 18:14:22.516 32648-32648 ExtensionsLoader        com.itransition.voicemail            D  createInstance(64bit) : createExtendedFactory
+2023-07-25 18:14:22.516 32648-32648 ExtensionsLoader        com.itransition.voicemail            D  Opened libSchedAssistExtImpl.so
+2023-07-25 18:14:22.530 32648-32648 ExtensionsLoader        com.itransition.voicemail            D  createInstance(64bit) : createExtendedFactory
+2023-07-25 18:14:22.530 32648-32648 ExtensionsLoader        com.itransition.voicemail            D  Opened libSchedAssistExtImpl.so
+2023-07-25 18:14:22.534 32648-32648 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.244493862
+2023-07-25 18:14:22.536 32648-32720 AdrenoGLES-0            com.itransition.voicemail            I  QUALCOMM build                   : c5f0e23, I9972db7aac
+                                                                                                    Build Date                       : 04/28/21
+                                                                                                    OpenGL ES Shader Compiler Version: EV031.32.02.10
+                                                                                                    Local Branch                     : 
+                                                                                                    Remote Branch                    : 
+                                                                                                    Remote Branch                    : 
+                                                                                                    Reconstruct Branch               : 
+2023-07-25 18:14:22.536 32648-32720 AdrenoGLES-0            com.itransition.voicemail            I  Build Config                     : S P 10.0.7 AArch64
+2023-07-25 18:14:22.536 32648-32720 AdrenoGLES-0            com.itransition.voicemail            I  Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+2023-07-25 18:14:22.540 32648-32720 AdrenoGLES-0            com.itransition.voicemail            I  PFP: 0x016ee190, ME: 0x00000000
+2023-07-25 18:14:22.550 32648-32720 hw-ProcessState         com.itransition.voicemail            D  Binder ioctl to enable oneway spam detection failed: Invalid argument
+2023-07-25 18:14:22.581 32648-32661 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 18:14:25.470 32648-32720 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 18:14:40.027 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:40.027 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:40.027 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:40.035 32648-32648 Compatibil...geReporter com.itransition.voicemail            D  Compat change id reported: 171228096; UID 10565; state: ENABLED
+2023-07-25 18:14:40.036 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:40.036 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:40.036 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:40.046 32648-32648 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@e6c9755[MainActivity],pkg= com.itransition.voicemail
+2023-07-25 18:14:40.102 32648-32648 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.241997653
+2023-07-25 18:14:40.122 32648-32664 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 18:14:40.148 32648-32648 Quality                 com.itransition.voicemail            I  Skipped: false 1 cost 28.127827 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 18:14:43.475 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:43.475 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:43.475 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:43.501 32648-32648 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@cd12199[SingleFragmentActivity],pkg= com.itransition.voicemail
+2023-07-25 18:14:43.528 32648-32648 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.215032217
+2023-07-25 18:14:43.548 32648-651   SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 18:14:43.993 32648-32720 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 18:14:44.396 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 24
+2023-07-25 18:14:44.397 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 2
+2023-07-25 18:14:44.402 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 23
+2023-07-25 18:14:44.411 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 12
+2023-07-25 18:14:44.415 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 13
+2023-07-25 18:14:44.416 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 15
+2023-07-25 18:14:44.439 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 20
+2023-07-25 18:14:44.442 32648-32648 MediaRecorderExtImpl    com.itransition.voicemail            I  ORMS_ACTION_RECORD is set
+2023-07-25 18:14:44.443 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 16
+2023-07-25 18:14:44.444 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 9
+2023-07-25 18:14:44.444 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 8
+2023-07-25 18:14:44.530 32648-32648 Quality                 com.itransition.voicemail            I  Skipped: false 8 cost 131.19167 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 18:14:49.704 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 7
+2023-07-25 18:14:49.834 32648-32648 CheckPermission         com.itransition.voicemail            E  media_record-code= 1
+2023-07-25 18:14:49.884 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:49.884 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:49.884 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:49.934 32648-32648 Quality                 com.itransition.voicemail            I  ActivityThread: activityStart delay 57 com.itransition.voicemail 32648
+2023-07-25 18:14:49.937 32648-32648 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@4c491e8[SingleFragmentActivity],pkg= com.itransition.voicemail
+2023-07-25 18:14:49.958 32648-32648 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.79991272
+2023-07-25 18:14:49.973 32648-785   SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 18:14:50.013 32648-32648 Compatibil...geReporter com.itransition.voicemail            D  Compat change id reported: 163400105; UID 10565; state: DISABLED
+2023-07-25 18:14:50.446 32648-32720 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 18:14:51.128 32648-32648 InputMethodManager      com.itransition.voicemail            D  showSoftInput() view=android.widget.EditText{4dde92 VFED..CL. .F.P.... 0,66-888,177 #7f0c003a app:id/title aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+2023-07-25 18:14:51.215 32648-32648 InsetsController        com.itransition.voicemail            D  show(ime(), fromIme=true)
+2023-07-25 18:14:54.587 32648-32648 OplusZoomW...ViewHelper com.itransition.voicemail            V  removeZoomView
+2023-07-25 18:14:54.629 32648-785   SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-25 18:14:55.130 32648-32648 Quality                 com.itransition.voicemail            I  Skipped: true 16 cost 272.7572 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 18:14:55.148 32648-32648 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 18:14:55.148 32648-32648 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 18:14:55.152 32648-32648 OplusZoomW...ViewHelper com.itransition.voicemail            V  removeZoomView
+2023-07-25 18:14:55.154 32648-32720 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 18:14:55.172 32648-32648 Quality                 com.itransition.voicemail            I  Skipped: true 2 cost 35.620033 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 18:14:56.047 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:56.047 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:56.047 32648-32648 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-25 18:14:56.052 32648-32648 Quality                 com.itransition.voicemail            I  Skipped: true 1 cost 30.43048 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 18:14:56.068 32648-32656 ition.voicemai          com.itransition.voicemail            W  Cleared Reference was only reachable from finalizer (only reported once)
+2023-07-25 18:14:56.074 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:14:56.080 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:14:56.085 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:14:56.092 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:14:56.100 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:14:56.106 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:14:56.147 32648-32648 Quality                 com.itransition.voicemail            I  Skipped: true 5 cost 92.94807 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 18:14:56.361 32648-32648 Quality                 com.itransition.voicemail            I  Skipped: false 12 cost 208.34605 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 18:14:56.596 32648-32648 Quality                 com.itransition.voicemail            I  Skipped: false 14 cost 229.83897 refreshRate 0 processName com.itransition.voicemail
+2023-07-25 18:15:02.823 32648-32720 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-25 18:15:03.137 32648-32648 MediaPlayer             com.itransition.voicemail            W  Use of stream types is deprecated for operations other than volume control
+2023-07-25 18:15:03.137 32648-32648 MediaPlayer             com.itransition.voicemail            W  See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+2023-07-25 18:15:03.406 32648-32648 MediaPlayer             com.itransition.voicemail            W  Use of stream types is deprecated for operations other than volume control
+2023-07-25 18:15:03.406 32648-32648 MediaPlayer             com.itransition.voicemail            W  See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+2023-07-25 18:15:06.582 32648-32648 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 18:15:06.582 32648-32648 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 18:15:06.685 32648-32648 MediaPlayer             com.itransition.voicemail            V  resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+2023-07-25 18:15:06.685 32648-32648 MediaPlayer             com.itransition.voicemail            V  cleanDrmObj: mDrmObj=null mDrmSessionId=null
+2023-07-25 18:15:08.552 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.577 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.594 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.601 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.621 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.633 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.638 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.657 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.699 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.712 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.717 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.801 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.824 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.873 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.886 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.905 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.914 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.922 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.964 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:08.988 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:09.104 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:09.135 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:09.157 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:09.240 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:09.277 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:09.309 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:09.321 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:09.331 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-25 18:15:09.384 32648-32658 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released

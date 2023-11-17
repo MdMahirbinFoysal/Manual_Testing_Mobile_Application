@@ -1,0 +1,17 @@
+2023-07-26 18:23:56.132 26932-26932 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 18:23:56.132 26932-26932 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 18:23:56.132 26932-26932 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 18:23:56.138 26932-26932 Compatibil...geReporter com.itransition.voicemail            D  Compat change id reported: 171228096; UID 10565; state: ENABLED
+2023-07-26 18:23:56.139 26932-26932 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 18:23:56.139 26932-26932 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 18:23:56.139 26932-26932 oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-26 18:23:56.145 26932-26932 WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@fb3d19d[MainActivity],pkg= com.itransition.voicemail
+2023-07-26 18:23:56.177 26932-26932 OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.263442845
+2023-07-26 18:23:56.184 26932-26954 SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-26 18:23:56.648 26932-26950 BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-26 18:24:12.997 26932-26932 MediaPlayer             com.itransition.voicemail            W  Use of stream types is deprecated for operations other than volume control
+2023-07-26 18:24:12.997 26932-26932 MediaPlayer             com.itransition.voicemail            W  See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+2023-07-26 18:24:13.043 26932-26932 MediaPlayer             com.itransition.voicemail            W  Use of stream types is deprecated for operations other than volume control
+2023-07-26 18:24:13.043 26932-26932 MediaPlayer             com.itransition.voicemail            W  See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+2023-07-26 18:24:23.674 26932-26943 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released
+2023-07-26 18:24:23.701 26932-26943 MediaPlayer-JNI         com.itransition.voicemail            W  MediaPlayer finalized without being released

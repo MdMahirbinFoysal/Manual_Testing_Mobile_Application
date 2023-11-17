@@ -1,0 +1,58 @@
+2023-07-24 23:07:53.615  9868-9880  SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-24 23:07:54.718  9868-9886  BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-24 23:07:56.189  9868-9881  SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-24 23:07:59.085  9868-9868  oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 23:07:59.085  9868-9868  oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 23:07:59.085  9868-9868  oplus.andr...actoryImpl com.itransition.voicemail            I  get feature:IOplusDynamicVsyncFeature
+2023-07-24 23:07:59.109  9868-9868  WindowManager           com.itransition.voicemail            D  Add to mViews: DecorView@3737b98[SingleFragmentActivity],pkg= com.itransition.voicemail
+2023-07-24 23:07:59.138  9868-9868  OplusZoomW...ViewHelper com.itransition.voicemail            V  setLastReportedMergedConfiguration mZoomDisplayHeight: 2400 getDecorView.57899928
+2023-07-24 23:07:59.144  9868-9880  SurfaceComposerClient   com.itransition.voicemail            D  VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+2023-07-24 23:07:59.604  9868-9886  BLASTBufferQueue        com.itransition.voicemail            E  BLASTBufferItemConsumer::onDisconnect()
+2023-07-24 23:08:01.312  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 24
+2023-07-24 23:08:01.313  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 2
+2023-07-24 23:08:01.316  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 23
+2023-07-24 23:08:01.326  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 12
+2023-07-24 23:08:01.331  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 13
+2023-07-24 23:08:01.331  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 15
+2023-07-24 23:08:01.352  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 20
+2023-07-24 23:08:01.355  9868-9868  MediaRecorderExtImpl    com.itransition.voicemail            I  ORMS_ACTION_RECORD is set
+2023-07-24 23:08:01.357  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 16
+2023-07-24 23:08:01.358  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 9
+2023-07-24 23:08:01.358  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 8
+2023-07-24 23:08:01.439  9868-9868  Quality                 com.itransition.voicemail            I  Skipped: false 7 cost 119.25686 refreshRate 0 processName com.itransition.voicemail
+2023-07-24 23:08:04.286  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 7
+2023-07-24 23:08:04.413  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 1
+2023-07-24 23:08:04.420  9868-9868  Quality                 com.itransition.voicemail            I  Skipped: false 8 cost 132.65443 refreshRate 0 processName com.itransition.voicemail
+2023-07-24 23:08:04.568  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 24
+2023-07-24 23:08:04.569  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 2
+2023-07-24 23:08:04.570  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 23
+2023-07-24 23:08:04.578  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 12
+2023-07-24 23:08:04.582  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 13
+2023-07-24 23:08:04.582  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 15
+2023-07-24 23:08:04.582  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 20
+2023-07-24 23:08:04.583  9868-9868  MediaRecorderExtImpl    com.itransition.voicemail            I  ORMS_ACTION_RECORD is set
+2023-07-24 23:08:04.584  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 16
+2023-07-24 23:08:04.584  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 9
+2023-07-24 23:08:04.585  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 8
+2023-07-24 23:08:04.686  9868-9868  CheckPermission         com.itransition.voicemail            E  media_record-code= 7
+2023-07-24 23:08:04.816  9868-9868  MediaRecorder           com.itransition.voicemail            E  stop failed: -1007
+2023-07-24 23:08:04.816  9868-9868  AndroidRuntime          com.itransition.voicemail            D  Shutting down VM
+2023-07-24 23:08:04.817  9868-9868  AndroidRuntime          com.itransition.voicemail            E  FATAL EXCEPTION: main
+                                                                                                    Process: com.itransition.voicemail, PID: 9868
+                                                                                                    java.lang.RuntimeException: stop failed.
+                                                                                                    	at android.media.MediaRecorder.stop(Native Method)
+                                                                                                    	at com.itransition.voicemail.util.Recorder.stopRecord(Recorder.java:82)
+                                                                                                    	at com.itransition.voicemail.fragment.RecordFragment.onClick(RecordFragment.java:97)
+                                                                                                    	at android.view.View.performClick(View.java:7488)
+                                                                                                    	at android.view.View.performClickInternal(View.java:7464)
+                                                                                                    	at android.view.View.access$3700(View.java:841)
+                                                                                                    	at android.view.View$PerformClick.run(View.java:28911)
+                                                                                                    	at android.os.Handler.handleCallback(Handler.java:938)
+                                                                                                    	at android.os.Handler.dispatchMessage(Handler.java:99)
+                                                                                                    	at android.os.Looper.loopOnce(Looper.java:233)
+                                                                                                    	at android.os.Looper.loop(Looper.java:344)
+                                                                                                    	at android.app.ActivityThread.main(ActivityThread.java:8212)
+                                                                                                    	at java.lang.reflect.Method.invoke(Native Method)
+                                                                                                    	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:584)
+                                                                                                    	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1034)
+2023-07-24 23:08:04.843  9868-9868  Process                 com.itransition.voicemail            I  Sending signal. PID: 9868 SIG: 9
